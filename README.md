@@ -140,6 +140,3 @@ http://localhost:8501
 * No persistent storage (session resets on refresh)
 
 ---
-
-
-Just say the word 😄
